@@ -16,7 +16,7 @@ export class HomePage {
   {
     "id": 2,
     "nombre": "Tablet",
-    "precio": 3000,
+    "precio": 4000,
     "cantidad": 3,
     "imagen": "http://dummyimage.com/131x116.jpg/5fa2dd/ffffff"
     
